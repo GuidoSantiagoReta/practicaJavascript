@@ -1,4 +1,4 @@
-CURSO DE JAVASCRIPT
+# JAVASCRIPT FUNDAMENTAL
 
 Extensions:
 
@@ -49,3 +49,13 @@ Javascript:
 
 
 #### instalacion de ESLINT
+
+#### 5- ESTRUCTURAS DE CONTROL IF-ELSE-IF
+
+#### 6- SWITCH
+
+#### 7- COMPARADORES
+ 
+#### 8- FOR
+
+#### 9- WHILE - DO WHILE
