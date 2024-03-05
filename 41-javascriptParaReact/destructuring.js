@@ -11,7 +11,7 @@ const cuadrado ={
 
 calcularArea(cuadrado);
 
-/**FORMA DESTRUCTURADA */
+/**FORMA DESESTRUCTURADA */
 
 function calcularArea(cuadrado) {
     const{x,y} = cuadrado;
